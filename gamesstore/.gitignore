@@ -29,6 +29,8 @@ Thumbs.db
 
 # SQLite
 *.db
+*.db-shm
+*.db-wal
 
 # ASP.NET
 appsettings.Development.json

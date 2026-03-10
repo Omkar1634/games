@@ -9,8 +9,8 @@ Content-Type: application/json
 
 {
     "name": "Street Fighter II",
-    "genre": "Fighting",
-    "price": 109.99,
+    "genreId": 2,
+    "price": 99.99,
     "releaseDate": "1991-02-01"
 }
 
@@ -22,7 +22,7 @@ Content-Type: application/json
 {
     
     "name": "Street Fighter II Turbo",
-    "genre": "Fighting",
+    "genreId": "Fighting",
     "price": 9.99,
     "releaseDate": "1991-07-01"
 }
