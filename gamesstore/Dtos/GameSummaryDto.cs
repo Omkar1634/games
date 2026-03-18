@@ -4,7 +4,7 @@ namespace gamesstore.Dtos;
 // It is often used to encapsulate data and to reduce the number of method calls when transferring data over a network or between different parts of an application. 
 //In this case, the GameDto class is likely intended to represent a game object that can be transferred between different layers of the application, such as between the database and the API layer.
 
-public record  GameDto (
+public record  GameSummaryDto (
     int Id,
     string Name,
     string Genre,
